@@ -50,3 +50,6 @@ flutter pub get
 ```bash
 flutter run
 ```
+
+> [!IMPORTANT]
+> From [@Spellthorn](https://github.com/Spellthorn)
